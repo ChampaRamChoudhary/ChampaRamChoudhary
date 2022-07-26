@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ChampaRamChoudhary/ChampaRamChoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChampaRamChoudhary/ChampaRamChoudhary**
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: e-mail:champaram.jdh2020@gmail.com.
 - 😄 Pronouns: Champa Ram.
 - ⚡ Fun fact: I think I am a Unique.
--->
