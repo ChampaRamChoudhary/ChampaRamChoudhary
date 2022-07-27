@@ -3,7 +3,7 @@
 **ChampaRamChoudhary/ChampaRamChoudhary**
 
 <h1 align="center">Hi 👋, I'm Champa Ram</h1>
-<h3 align="center">A passionate frontend developer from IIT Madras.</h3>
+<h2 align="center">A passionate frontend developer from IIT Madras.</h2>
 
 <img src="https://source.unsplash.com/1200x600/?webdeveloper" >
 
