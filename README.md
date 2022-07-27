@@ -2,7 +2,7 @@
 
 **ChampaRamChoudhary/ChampaRamChoudhary**
 
-<h1 style="color:blue" align="center">Hi 👋, I'm Champa Ram</h1>
+<h1 style="color:blue;" align="center">Hi 👋, I'm Champa Ram</h1>
 <h2 align="center">A passionate frontend developer from IIT Madras.</h2>
 
 <img src="https://source.unsplash.com/1200x600/?webdeveloper" >
