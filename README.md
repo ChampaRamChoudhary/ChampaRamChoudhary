@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Champa Ram</h1>
 <h3 align="center">A passionate frontend developer from IIT Madras.</h3>
 
-<img src="https://source.unsplash.com/1200x300/?webdeveloper" >
+<img src="https://source.unsplash.com/1200x600/?webdeveloper" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champaramchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="champaramchoudhary" /> </p>
 
