@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Champa Ram</h1>
 <h3 align="center">A passionate frontend developer from IIT Madras.</h3>
 
+<img src="https://source.unsplash.com/600x300/?git" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champaramchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="champaramchoudhary" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=champaramchoudhary" alt="champaramchoudhary" /></a> </p>
